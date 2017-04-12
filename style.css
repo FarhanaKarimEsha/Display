@@ -1,0 +1,123 @@
+.wrapper{
+	width: 100%;
+}
+.header{
+	width:900px;
+	margin: 0 auto;
+	margin-top: 10px;
+}	
+.logo{
+	width: 100%;
+	display: inline-block;
+	overflow: hidden;
+	border-bottom: 1px solid grey;
+}
+.logo-left{
+	float: left;
+	display: inline-block;
+	overflow: hidden;
+
+}
+.logo-left h3{
+	margin-top: 15px;
+	padding: 0;
+	float: left;
+	color:  #323232;
+	margin-left: 10px;
+
+}
+.logo-left img{
+	float: left;
+
+}
+.logo-right{
+	float: right;
+	margin-top: 10px;
+
+}
+.menu ul{
+	padding: 0;
+}
+.menu ul li{
+	list-style: none;
+	display: inline-block;
+	margin-left:0px;
+	margin-right: 10px;
+	font-weight: 700;
+
+}
+.active{
+	color: green;
+}
+.banner{
+	position: relative;
+}
+.banner-p{
+	width: 600px;
+	text-align: center;
+	margin: 0 auto;
+	color:  grey;
+	margin-top: 100px;
+}
+.banner-p button{
+	background-color: green;
+	color: white;
+	padding:10px;
+	border: none;
+
+}
+.banner-content{
+	position: absolute;
+	bottom: -50px;
+	left: 400px;
+}
+
+.footer-content{
+	background-color: #323232; 
+	color: white;
+	overflow: hidden;
+	display: inline-block;
+	width: 100%;
+	margin-top: 20px;
+}
+.text h2{
+	float: left;
+}
+.button-footer{
+	float: right;
+	background-color: green;
+	color: white;
+	padding:10px;
+	border: none;
+	margin-top: 15px;
+}
+.footer1{
+	width: 900px;
+	margin: 0 auto;
+}
+
+.f-menu ul li{
+	list-style: none;
+	display: inline-block;
+	margin-left:0px;
+	margin-right: 10px;
+	font-weight: 700;
+
+}
+.footer2{
+	width: 100%;
+}
+.footer{
+	overflow: hidden;
+	width: 900px;
+	font-size: 10px;
+	color: #323232;
+	margin: 0 auto;
+}
+.cr{
+	float: left;
+
+}
+.f-menu{
+	float: right;
+}
